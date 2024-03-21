@@ -17,9 +17,6 @@ This is a food delivery web application built using React and Vite. It allows us
 - **Vite**: Fast and lightweight build tool for modern web development.
 - **React Router**: Library for handling routing in React applications.
 - **React Context API**: For managing global state such as the user's cart.
-- **Firebase Authentication**: For user authentication and authorization.
-- **Firebase Firestore**: Cloud Firestore database for storing user data and order information.
-- **Tailwind CSS**: Utility-first CSS framework for styling the UI.
 
 ## Getting Started
 
