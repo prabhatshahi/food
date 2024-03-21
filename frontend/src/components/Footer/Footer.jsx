@@ -35,7 +35,7 @@ const Footer = () => {
       </div>
       <hr />
       <p className="footer-copyright">
-        Copyright 2024 Toamato. All Rights Resrved
+        Copyright 2024 Toamato. All Rights Resrved Made By Prabhat
       </p>
     </div>
   );
